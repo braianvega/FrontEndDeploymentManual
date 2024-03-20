@@ -1,2 +1,22 @@
-main {
+.midle_section{
+  display: flex;
 }
+
+.tittle{
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+}
+
+aside{
+  width: 10%;
+  background-color: #ffff;
+  text-align: center;
+  height: 92.25vh;
+}
+
+.section_tittle{
+  justify-content:center;
+}
+
+
